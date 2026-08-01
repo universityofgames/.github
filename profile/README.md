@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://university-of-games.gitbook.io/welcome/">
-    <img src="https://raw.githubusercontent.com/universityofgames/.github/main/profile/images/logo.png" width="96" height="96" alt="University of Games">
+    <img src="https://raw.githubusercontent.com/universityofgames/.github/main/profile/images/logo.png" width="120" alt="University of Games">
   </a>
 </p>
 
