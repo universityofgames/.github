@@ -57,17 +57,17 @@ Public samples and toolkits under [`@universityofgames`](https://github.com/univ
 
 ### Connect
 
-<p align="center">
-  <a href="https://university-of-games.gitbook.io/welcome/"><img alt="GitBook" src="https://img.shields.io/badge/GitBook-Docs-3884FF?style=flat-square&logo=gitbook&logoColor=white" /></a>
-  <a href="https://github.com/universityofgames/.github/discussions"><img alt="Discussions" src="https://img.shields.io/badge/GitHub-Discussions-181717?style=flat-square&logo=github&logoColor=white" /></a>
-  <a href="https://assetstore.unity.com/publishers/25633"><img alt="Asset Store" src="https://img.shields.io/badge/Unity-Asset%20Store-000000?style=flat-square&logo=unity&logoColor=white" /></a>
-  <a href="https://medium.com/university-of-games"><img alt="Medium" src="https://img.shields.io/badge/Medium-Articles-12100E?style=flat-square&logo=medium&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/company/universityofgames/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/uniwersytetgier"><img alt="X" src="https://img.shields.io/badge/X-@uniwersytetgier-000000?style=flat-square&logo=x&logoColor=white" /></a>
-  <a href="https://www.youtube.com/channel/UCQbAyrwHKJ8QRDTOHs90O0g"><img alt="YouTube" src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white" /></a>
-  <a href="https://www.instagram.com/uniwersytetgier"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
-  <a href="https://www.facebook.com/uniwesytetgier"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" /></a>
-</p>
+| | |
+| :--- | :--- |
+| **Documentation** | [university-of-games.gitbook.io](https://university-of-games.gitbook.io/welcome/) |
+| **Community** | [GitBook · Community](https://university-of-games.gitbook.io/welcome/community) · [GitHub Discussions](https://github.com/universityofgames/.github/discussions) |
+| **Unity Asset Store** | [Publisher page](https://assetstore.unity.com/publishers/25633) |
+| **Articles** | [Medium · University of Games](https://medium.com/university-of-games) |
+| **LinkedIn** | [company/universityofgames](https://www.linkedin.com/company/universityofgames/) |
+| **X / Twitter** | [@uniwersytetgier](https://twitter.com/uniwersytetgier) |
+| **YouTube** | [University of Games](https://www.youtube.com/channel/UCQbAyrwHKJ8QRDTOHs90O0g) |
+| **Instagram** | [@uniwersytetgier](https://www.instagram.com/uniwersytetgier) |
+| **Facebook** | [uniwersytetgier](https://www.facebook.com/uniwesytetgier) |
 
 ---
 
