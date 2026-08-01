@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://university-of-games.gitbook.io/welcome/">
-    <img src="https://university-of-games.gitbook.io/welcome/~gitbook/image?url=https%3A%2F%2F2020275084-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FpgKXBN4EwU6K8itDLWeM%252Ficon%252FVlegdvJ2bCe2xUwq98r9%252Flogo-color-new.png%3Falt%3Dmedia%26token%3Dc0af6881-31d1-4954-b372-92b89b28a47d&width=256&dpr=2&quality=100&sign=39db7a02&sv=2" width="120" alt="University of Games">
+    <img src="https://university-of-games.gitbook.io/welcome/~gitbook/image?url=https%3A%2F%2F2020275084-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FpgKXBN4EwU6K8itDLWeM%252Ficon%252FVlegdvJ2bCe2xUwq98r9%252Flogo-color-new.png%3Falt%3Dmedia%26token%3Dc0af6881-31d1-4954-b372-92b89b28a47d&width=256&dpr=2&quality=100&sign=39db7a02&sv=2" width="60" alt="University of Games">
   </a>
 </p>
 
