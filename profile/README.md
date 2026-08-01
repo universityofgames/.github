@@ -12,8 +12,8 @@
 <h1 align="center">University of Games</h1>
 
 <p align="center">
-  <strong>Practical Unity solutions for indie creators.</strong><br>
-  Tools, ready-made packages, and production knowledge you can apply the same day.
+  <strong>A place for indie creators.</strong><br>
+  Practical Unity tools, Asset Store packages, and production knowledge you can apply the same day.
 </p>
 
 <p align="center">
@@ -39,13 +39,19 @@
 
 ## About
 
-University of Games is a research-driven studio for indie game developers and young publishers. We focus on one outcome: **shipping faster** — with reusable editor tools, complete game tutorials, graphics and audio packs, and utilities born from real production work on Unity.
+We focus on one outcome: **shipping faster**. Reusable editor tools, complete game tutorials, graphics and audio packs, and utilities — all from real Unity production experience, not theory slides.
 
-We have been building with Unity since the early days. The goal is simple: less time on naming chaos, missing UI kits, and repeated boilerplate — more time on the game only you can make.
+Building with Unity since the early days. Less time on naming chaos, missing UI kits, and repeated boilerplate — more time on the game only you can make.
 
-## Product documentation
+| | |
+| --- | --- |
+| **Asset Store products** | Editor tools, complete game tutorials, graphics, sounds, and utilities — documented on GitBook and sold on the [Unity Asset Store](https://assetstore.unity.com/publishers/25633). |
+| **Articles & education** | Free guides on [Medium](https://medium.com/university-of-games) — Unity, game design, and shipping. |
+| **Community** | Meetups, channels, and open-source samples for players and industry people — see [Community](https://university-of-games.gitbook.io/welcome/community). |
 
-Full technical docs for our Unity Asset Store packages live on GitBook:
+## Documentation
+
+Full technical docs for every package:
 
 | Category | What you will find |
 | --- | --- |
@@ -55,11 +61,9 @@ Full technical docs for our Unity Asset Store packages live on GitBook:
 | [Utilities](https://university-of-games.gitbook.io/welcome/products/utilities) | Production utilities including Virtual Keyboard |
 | [Unity Sound Packs](https://university-of-games.gitbook.io/welcome/products/unity-sound-packs) | Studio WAV packs for cards, toys, and more |
 
-Browse the full catalog on our [Unity Asset Store publisher page](https://assetstore.unity.com/publishers/25633).
+Start at the [docs home](https://university-of-games.gitbook.io/welcome/) · browse the [publisher catalog](https://assetstore.unity.com/publishers/25633).
 
 ## Open source
-
-Free repositories you can clone and use today:
 
 | Repository | Description |
 | --- | --- |
@@ -71,11 +75,11 @@ Free repositories you can clone and use today:
 
 ## Connect
 
-| Channel | Link |
+| | |
 | --- | --- |
 | Documentation | [university-of-games.gitbook.io](https://university-of-games.gitbook.io/welcome/) |
-| Community hub | [GitBook · Community](https://university-of-games.gitbook.io/welcome/community) |
-| Unity Asset Store | [Publisher 25633](https://assetstore.unity.com/publishers/25633) |
+| Community | [GitBook · Community](https://university-of-games.gitbook.io/welcome/community) |
+| Unity Asset Store | [Publisher page](https://assetstore.unity.com/publishers/25633) |
 | Medium | [university-of-games](https://medium.com/university-of-games) |
 | LinkedIn | [company/universityofgames](https://www.linkedin.com/company/universityofgames/) |
 | X / Twitter | [@uniwersytetgier](https://twitter.com/uniwersytetgier) |
