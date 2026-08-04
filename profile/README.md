@@ -45,7 +45,7 @@ Public samples and toolkits under [`@universityofgames`](https://github.com/univ
 
 - [`unity-localization-toolkit`](https://github.com/universityofgames/unity-localization-toolkit) — localization plugin for Unity
 - [`2d-starter-pack`](https://github.com/universityofgames/2d-starter-pack) — Coins, Stars, Potion, Diamonds cartoon icons
-- [`2d-character-controller`](https://github.com/universityofgames/2d-character-controller) — complete 2D controller with camera
+- [`2d-platformer-toolkit`](https://github.com/universityofgames/2d-platformer-toolkit) — complete 2D platformer toolkit with camera
 - [`2d-progress-bar-toolkit`](https://github.com/universityofgames/2d-progress-bar-toolkit) — 2D progress bar toolkit for UI
 - [`how-to-use-NFTs-in-Unity`](https://github.com/universityofgames/how-to-use-NFTs-in-Unity) — NFT integration guide (ChainSafe)
 
